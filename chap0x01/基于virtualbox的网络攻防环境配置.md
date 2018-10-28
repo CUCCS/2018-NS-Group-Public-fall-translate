@@ -1,9 +1,9 @@
 #  chap0x01 基于VirtualBox的网络攻防基础环境搭建
 - 节点：靶机、网关、攻击者主机    
 ![image](picture/node.png)   
-![image](oicture/victim_address.png)   
-![image](oicture/attacker_address.png)   
-![image](oicture/gateway_address.png)   
+![image](picture/victim_address.png)   
+![image](picture/attacker_address.png)   
+![image](picture/gateway_address.png)   
 - 连通性   
   - 靶机可以直接访问攻击者主机   
     ![image](picture/victim.png)
